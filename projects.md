@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /handouts/index.html
-title: Handouts & Notes
+permalink: /projects/index.html
+title: Handouts & Everything else
 ---
 
 > A place for my personal notes, handouts, and mini projects.

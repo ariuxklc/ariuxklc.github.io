@@ -5,7 +5,7 @@ url: https://ariuxklc.github.io
 
 owner:
   name: Ariunbayar Enkhtaivan
-  avatar: assets/images/myphoto.jpg
+  avatar: gramps.png
   email: ariuxklc@gmail.com
   cv: 
   github: ariuxklc
@@ -19,8 +19,8 @@ links:
     url: /projects/
   - title: Awards
     url: /awards/
-  - title: Contact
-    url: /contact/
+  - title: Blogs
+    url: /blogs/
 
 timezone: Asia/Ulaanbaatar
 future: true
