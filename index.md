@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Hello there traveller,
+# Hyello
 
 <img src="/gramps.png" class="floatpic">
 
