@@ -1,0 +1,54 @@
+title: Ariunbayar Enkhtaivan
+tagline: portfolioooooo.
+description: this is the description ya.
+url: https://ariuxklc.github.io
+
+owner:
+  name: Ariunbayar Enkhtaivan
+  avatar: assets/images/myphoto.jpg
+  email: ariuxklc@gmail.com
+  cv: 
+  github: ariuxklc
+  facebook: ariunbayar1337
+  instagram: ariuxklc
+
+links:
+  - title: About Me
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Awards
+    url: /awards/
+  - title: Contact
+    url: /contact/
+
+timezone: Asia/Ulaanbaatar
+future: true
+highlighter: rouge
+permalink: /:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+include: [".htaccess"]
+exclude:
+  - "lib"
+  - "config.rb"
+  - "Capfile"
+  - "config"
+  - "log"
+  - "Rakefile"
+  - "Rakefile.rb"
+  - "tmp"
+  - "less"
+  - "minimal-mistakes.sublime-project"
+  - "minimal-mistakes.sublime-workspace"
