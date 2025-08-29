@@ -6,7 +6,7 @@ url: https://ariuxklc.github.io
 owner:
   name: Ariunbayar Enkhtaivan
   avatar: gramps.png
-  email: ariuxklc@gmail.com
+  # email: ariuxklc@gmail.com
   github: ariuxklc
   facebook: ariunbayar1337
   instagram: ariuxklc
@@ -16,8 +16,6 @@ links:
     url: /
   - title: Projects
     url: /projects/
-  - title: Awards
-    url: /awards/
   - title: Blogs
     url: /blogs/
 
