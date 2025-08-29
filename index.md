@@ -2,10 +2,12 @@
 layout: page
 ---
 
-# About Me
+# Hyello,
 
 <img src="/gramps.png" class="floatpic">
 
-Here is **Ariunbayar Enkhtaivan**
+My name is **Ariunbayar Enkhtaivan**
 
-hyallo
+This is my personal website, on which i'm currently working on.
+
+Change this later.

@@ -7,4 +7,4 @@ title: Blogs
 ## Blogs
 
 ### 2025
-- Add your 2025 blog posts or notes here.
+- blogs incoming soon 

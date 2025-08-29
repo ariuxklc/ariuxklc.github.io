@@ -1,12 +1,10 @@
 ---
 layout: page
 permalink: /projects/index.html
-title: Handouts & Everything else
+title: Handouts & Such
 ---
 
-> A place for my personal notes, handouts, and mini projects.
-
-## Courses / Workshops
+## Handouts
 
 - Add any course handouts or summaries here.
 - Example: [Handout Translations](#)
