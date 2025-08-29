@@ -1,26 +1,11 @@
 ---
 layout: page
-title: "About Me"
-permalink: /about/
 ---
 
 # About Me
 
-<!-- Replace the src with your photo -->
-<!-- <img src="assets/images/myphoto.jpg" class="floatpic"> -->
+<img src="/gramps.png" class="floatpic">
 
-Here is **Ariunbayar Enkhtaivan**.<br>
+Here is **Ariunbayar Enkhtaivan**
 
-testing testing
-
-You can reach me at — **ariuxklc@gmail.com**
-
----
-
-## Interests / Focus Areas
-
-
----
-
-## News and Updates
-
+hyallo
