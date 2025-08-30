@@ -18,6 +18,8 @@ links:
     url: /projects/
   - title: Blogs
     url: /blogs/
+  - title: Contact
+    url: /contact/
 
 timezone: Asia/Ulaanbaatar
 future: true
