@@ -7,4 +7,4 @@ title: Blogs
 ## Blogs
 
 ### 2025
-- blogs incoming soon 
+- [first](/blogs/first/)
