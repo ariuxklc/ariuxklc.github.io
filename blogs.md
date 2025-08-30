@@ -8,3 +8,5 @@ title: Blogs
 
 ### 2025
 - [first](/blogs/first/)
+
+---
